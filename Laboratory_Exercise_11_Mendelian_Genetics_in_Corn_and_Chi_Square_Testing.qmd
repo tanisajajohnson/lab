@@ -284,11 +284,11 @@ Based on your information about the F2 progeny, complete the table below.
   ---------------------------------------------------------------------------------------
    **Genotype**      **ratio**       **Phenotype**   **ratio**   **Percentage expected**
   -------------- ------------------ --------------- ----------- -------------------------
-      **PP**                          **Purple**                
+      **PP**            1              **Purple**      3          75%
 
-     **Pp\***                         **Yellow**                
+     **Pp\***          2               **Yellow**      1          25%
 
-    **p\*p\***                                                  
+    **p\*p\***          1                                        
   ---------------------------------------------------------------------------------------
 
 Working in groups of two, have one student read out the seed phenotypes while the other records the data in Table xxx. The kernels in this activity represent the **F2 generation**, as shown in the Punnett square completed earlier. Begin at one end of a row and count the number of seeds for each color, making sure not to count any seed more than once. Do not mark or remove the seeds from the cob. Use the provided rubber bands to divide the cob into sections to make counting easier. Record the number of purple seeds, yellow seeds, and the total number of seeds below.
@@ -307,27 +307,27 @@ Observed Data**
   ---------------- --------- ------- ------- ------- ------- ----------------- ------- ----- ------------
    **Phenotypes**    **1**    **2**   **3**   **4**   **5**        **6**        **7**         **Total**
 
-         P                                                                                   
+         P           27         28      24      24       18          27            29             177        
 
-        p\*                                                                                  
+        p\*         15           7       11     11       15           6             5             70    
 
-                                                              **Grand Total**                
+                                                              **Grand Total**   247             
   -------------------------------------------------------------------------------------------------------
 
-Dominant Trait: \_\_\_\_\_\_\
-Recessive Trait: \_\_\_\_\_\_
+Dominant Trait: \_\_\177_\_\_\_\
+Recessive Trait: \_\_\70_\_\_\_
 
-Total Offspring: \_\_\_\_\_\_
+Total Offspring: \_\_\_247\_\_\_
 
 **Step 1: State the Hypothesis in a full sentence**
 
-Expected phenotypic ratio: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Expected phenotypic ratio: \_\_\_\_\_\_\_\_\_\3:1_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Step 2: Calculate Expected Values**
 
-Expected dominant: \_\_\_\_\_\_
+Expected dominant: \_\_\185.25_\_\_\_
 
-Expected recessive: \_\_\_\_\_\_
+Expected recessive: \_\_\61.75_\_\_\_
 
 **Hint:**
 
